@@ -1,0 +1,8 @@
+[
+   {
+   "remote"       : "github",
+   "repository"   : "ancient-devices/device_motorola_sm6150-common",
+   "target_path"  : "device/motorola/sm6150-common",
+   "branch"       : "eleven"
+   } 
+] 
